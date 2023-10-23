@@ -18,9 +18,11 @@ This simple web app displays a list of student queries for review using various 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/queries-review-web-app.git
+    git clone [https://github.com/kwesinavilot/mest.git](https://github.com/kwesinavilot/mest.git)
     ```
 
-2. Open the `do_while_loop.html` or `while_loop.html` file in your web browser to view the app.
+2. Navigate to the `js_do_do_while` directory.
+  
+3. Open the `do_while_loop.html` or `while_loop.html` file in your web browser to view the app.
 
-3. Review the student queries with the provided table.
+4. Review the student queries with the provided table.
