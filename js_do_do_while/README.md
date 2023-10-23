@@ -18,7 +18,7 @@ This simple web app displays a list of student queries for review using various 
 1. Clone the repository:
 
     ```bash
-    git clone [https://github.com/kwesinavilot/mest.git](https://github.com/kwesinavilot/mest.git)
+    git clone https://github.com/kwesinavilot/mest.git
     ```
 
 2. Navigate to the `js_do_do_while` directory.
